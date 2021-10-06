@@ -8,7 +8,7 @@ void main() {
         backgroundColor: Colors.blueGrey[100],
         appBar: AppBar(
           backgroundColor: Colors.blueGrey[800],
-          title: Text('Mutlu Bayramlar2'),
+          title: Text('Mutlu Bayramlar'),
         ),
         body: Center(child: Image.asset('images/mutlu_bayramlar.jpg')),
       ),
