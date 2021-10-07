@@ -5,8 +5,9 @@ void main() {
     MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        backgroundColor: Colors.blueGrey[100],
+        backgroundColor: Color(0xffd7e0ff),
         appBar: AppBar(
+          centerTitle: true,
           backgroundColor: Colors.blueGrey[800],
           title: Text('Mutlu Bayramlar'),
         ),
